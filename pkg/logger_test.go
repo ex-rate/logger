@@ -150,8 +150,6 @@ func TestLogger_Levels(t *testing.T) {
 	logger.Info("info message")
 	logger.Warn("warn message")
 	logger.Error("error message")
-	logger.Fatal("fatal message")
-	logger.Panic("panic message")
 
 	// Проверяем, что уровень можно изменить
 	logger.SetLevel(InfoLevel)

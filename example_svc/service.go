@@ -2,7 +2,8 @@ package examplesvc
 
 import (
 	"errors"
-	"exrate/logger/pkg"
+
+	"github.com/pizhlo/exrate-logger/pkg"
 )
 
 // Service - сервис для примера

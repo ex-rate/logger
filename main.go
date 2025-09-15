@@ -1,9 +1,10 @@
 package main
 
 import (
-	examplesvc "exrate/logger/example_svc"
-	"exrate/logger/pkg"
 	"log"
+
+	examplesvc "github.com/pizhlo/exrate-logger/example_svc"
+	"github.com/pizhlo/exrate-logger/pkg"
 )
 
 func main() {

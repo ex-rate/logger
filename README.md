@@ -14,10 +14,10 @@
 
 ## Установка
 
-Убедитесь, что у вас установлена зависимость logrus:
+Установка:
 
 ```bash
-go get github.com/sirupsen/logrus
+go get  github.com/exrate/logger
 ```
 
 ## Быстрый старт
@@ -26,7 +26,7 @@ go get github.com/sirupsen/logrus
 package main
 
 import (
-    "exrate/logger"
+    "github.com/exrate/logger"
 )
 
 func main() {

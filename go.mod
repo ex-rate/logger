@@ -1,4 +1,4 @@
-module github.com/pizhlo/exrate-logger
+module github.com/exrate/logger
 
 go 1.24.5
 

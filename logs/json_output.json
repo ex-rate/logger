@@ -5,3 +5,10 @@
 {"file":"service.go:21","func":"exrate/logger/example_svc.(*Service).Run","level":"error","msg":"Error message from service","service":"service3","time":"2025-09-11T13:44:20+03:00"}
 {"error":"test error","file":"service.go:23","func":"exrate/logger/example_svc.(*Service).Run","level":"error","msg":"Error message from service","service":"service3","time":"2025-09-11T13:44:20+03:00"}
 {"file":"service.go:27","func":"exrate/logger/example_svc.(*Service).Shutdown","level":"info","msg":"Service shutdown","service":"service3","time":"2025-09-11T13:44:20+03:00"}
+{"file":"main.go:48","func":"main.main","level":"info","msg":"Logger2 created successfully","service":"","time":"2025-09-15T21:20:23+03:00"}
+{"file":"service.go:19","func":"github.com/pizhlo/exrate-logger/example_svc.(*Service).Run","level":"info","msg":"Service started","service":"service3","time":"2025-09-15T21:20:23+03:00"}
+{"file":"service.go:20","func":"github.com/pizhlo/exrate-logger/example_svc.(*Service).Run","level":"debug","msg":"Debug message from service","service":"service3","time":"2025-09-15T21:20:23+03:00"}
+{"file":"service.go:21","func":"github.com/pizhlo/exrate-logger/example_svc.(*Service).Run","level":"warning","msg":"Warning message from service","service":"service3","time":"2025-09-15T21:20:23+03:00"}
+{"file":"service.go:22","func":"github.com/pizhlo/exrate-logger/example_svc.(*Service).Run","level":"error","msg":"Error message from service","service":"service3","time":"2025-09-15T21:20:23+03:00"}
+{"error":"test error","file":"service.go:24","func":"github.com/pizhlo/exrate-logger/example_svc.(*Service).Run","level":"error","msg":"Error message from service","service":"service3","time":"2025-09-15T21:20:23+03:00"}
+{"file":"service.go:28","func":"github.com/pizhlo/exrate-logger/example_svc.(*Service).Shutdown","level":"info","msg":"Service shutdown","service":"service3","time":"2025-09-15T21:20:23+03:00"}

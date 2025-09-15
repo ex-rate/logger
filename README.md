@@ -17,7 +17,7 @@
 Установка:
 
 ```bash
-go get  github.com/exrate/logger
+go get github.com/ex-rate/logger
 ```
 
 ## Быстрый старт
@@ -26,7 +26,7 @@ go get  github.com/exrate/logger
 package main
 
 import (
-    "github.com/exrate/logger"
+    "github.com/ex-rate/logger"
 )
 
 func main() {

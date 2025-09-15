@@ -1,4 +1,4 @@
-module github.com/exrate/logger
+module github.com/ex-rate/logger
 
 go 1.24.5
 
